@@ -1,5 +1,5 @@
-# Spinning up
+# Express TypeScript Starter
 
-- npm init
-- npm i -D typescript
-- npx tsc --init
+- Express
+- TypeScript
+- Mocha testing
